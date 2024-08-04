@@ -14,6 +14,6 @@ test('if not logged in, there is no welcome username message', () => {
 
   //assert text
   expect(screen.getByRole('heading', { name: /mock stocks/i })).toHaveTextContent(
-    "Mock Stocks"
+    "Finvedic Mock Stocks"
   );
 })
