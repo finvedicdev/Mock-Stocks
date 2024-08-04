@@ -63,7 +63,7 @@ const Footer = () => {
         <hr className="h-px my-6 bg-gray-300 border-none dark:bg-gray-700" />
 
         <div>
-          <p className="text-center text-gray-800 dark:text-white">© Mock Stocks {new Date().getFullYear()}</p>
+          <p className="text-center text-gray-800 dark:text-white">© Finvedic Mock Stocks {new Date().getFullYear()}</p>
         </div>
       </div>
     </footer>
