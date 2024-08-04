@@ -1,0 +1,1 @@
+mongoimport -h localhost:27017 -d test -c stocks --type json --jsonArray  --file stocks.json
